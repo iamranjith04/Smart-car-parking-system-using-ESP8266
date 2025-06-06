@@ -16,7 +16,6 @@ Technologies Used:
 - HTML, JavaScript (for local server dashboard)
 - Servo, Ultrasonic Sensor, IR Sensor
 
-Circuit Diagram:
 ![Circuit Diagram](circuit_diagram.png)
 
 Circuit Components:
@@ -39,7 +38,6 @@ Circuit Components:
 4. Upload to ESP8266
 5. Access dashboard via `http://<your_nodeMCU_ip>`
 
-Dashboard:
 ![Available and reserved](https://github.com/user-attachments/assets/01f6625f-ba3f-42f2-8ea7-735ecb58c4c7)
 ![occupied](https://github.com/user-attachments/assets/1494068b-d1dd-4ebe-a361-e29249795227)
 
